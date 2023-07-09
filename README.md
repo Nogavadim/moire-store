@@ -1,5 +1,7 @@
 # Educational final project - online store Moire Vadim Gajsarov
 
+# GH-Pages https://nogavadim.github.io/moire-store/#/
+
 ## Used technologies:
 * Vue.js 3 version
 * Vuex
